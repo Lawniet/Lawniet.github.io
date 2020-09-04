@@ -3,9 +3,20 @@
 Graduanda em Bacharelado em Ciência da computação | InstitutoFederal de Educação, Ciência e Tecnologia de Brasília
 
 ## Resumo
-Recebi o prêmio Aluno de 2013, condecoração pelo resultado deexame avaliativo regular de ensino médio. Já realizei 2 Projetos de Iniciação Científica, sendo que um foina área de georreferenciamento em dispositivos móveis e outrorelaciona à Lógica Fuzzy. Fui estagiária durante 2 anos no Tribunal Regional Federalda Primeira Região (TRF 1ª Região), no qual obtive muitoconhecimento sobre desenvolvimento Web com PHP e daferramenta Lumis Portal. Atualmente estou estagiando no Tribunal de Contas da União(TCU), no qual eu automatizo tarefas para sistemas operacionaisWindows, realizo manutenções em sistemas ASP.Net/C# econtribuo para desenvolvimento de módulos Microsoft Teams eSharePoint. Estou constantemente conquistando proficiência em Python,ASP.Net e C#, além de realizar uma série de cursos na área deGovernança em TI.Atualmente sou voluntária no grupo de Marketing do RamoEstudantil IEEE IFB, mas também já voluntariei em outros eventosda área tecnológica.Além disto, busco constantemente o aprimoramento em Inglês.Realizei cursos de aprimoramento (inclusive preparatórios para oTOEIC Bridge), mas tenho preferência pelo estudo autônomo, sejautilizando aplicativos como Duolingo ou em conversas informais,podcasts e filmes.Quanto a minha personalidade, me definem como paciente,calma, gentil e comunicativa (apesar de ter sido qualificada comotímida também). Estou sempre trabalhando minha empatia paracompreender melhor as pessoas ao meu redor e estou sempredisposta ajudar no que for necessário.
+Recebi o prêmio Aluno de 2013, condecoração pelo resultado de exame avaliativo regular de ensino médio. Já realizei 2 Projetos de Iniciação Científica, sendo que um foi na área de georreferenciamento em dispositivos móveis e outro relaciona à Lógica Fuzzy. 
+
+Fui estagiária durante 2 anos no Tribunal Regional Federalda Primeira Região (TRF 1ª Região), no qual obtive muito conhecimento sobre desenvolvimento Web com PHP e da ferramenta Lumis Portal. Atualmente estou estagiando no Tribunal de Contas da União (TCU), no qual eu automatizo tarefas para sistemas operacionais Windows, realizo manutenções em sistemas ASP.Net/C# econtribuo para desenvolvimento de módulos Microsoft Teams e SharePoint.
+
+Estou constantemente conquistando proficiência em Python,ASP.Net e C#, além de realizar uma série de cursos na área de Governança em TI. 
+
+Atualmente sou voluntária no grupo de Marketing do RamoEstudantil IEEE IFB, mas também já voluntariei em outros eventos da área tecnológica. 
+
+Além disto, busco constantemente o aprimoramento em Inglês. Realizei cursos de aprimoramento (inclusive preparatórios para o TOEIC Bridge), mas tenho preferência pelo estudo autônomo, seja utilizando aplicativos como Duolingo ou em conversas informais, podcasts e filmes.
+
+Quanto a minha personalidade, me definem como paciente, calma, gentil e comunicativa (apesar de ter sido qualificada como tímida também). Estou sempre trabalhando minha empatia para compreender melhor as pessoas ao meu redor e estou sempre disposta ajudar no que for necessário.
 
 ## Experiência
+
 ### Tribunal de Contas da União
 ```markdown
 Estagiário
