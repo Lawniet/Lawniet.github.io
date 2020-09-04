@@ -35,6 +35,10 @@ Brasília e Região, Brasil
 
 Plano de atividade do estágio: AUXILIAR A ELABORAÇÃO DE NOVOS SISTEMAS E PROGRAMAS; AUXILIAR A ELABORAÇÃO E DOCUMENTAÇÃO DE PROGRAMAS; AUXILIAR A INSTALAÇÃO E CONFIGURAÇÃO DE REDES; AUXILIAR A MANUTENÇÃO DE SISTEMAS; AUXILIAR A ORGANIZAÇÃO DE SISTEMAS, PHP, HTML, CSS, JAVASCRIPT, BOOTSTRAP, LUMISPORTAL. 
 ```
+## Principais competências
+- Desenvolvimento de interfaces
+- JavaScript
+- React.js
 
 ## Formação acadêmica
 
