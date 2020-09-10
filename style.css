@@ -37,3 +37,19 @@
   .navbar-nav  li a:hover {
     color: #1abc9c !important;
   }
+  .abilities-public {
+    text-align:center
+  }
+  .general-info .abilities-public a {
+    text-decoration:none
+  }.general-info 
+  .abilities-public p {
+    font-size:.8rem;margin-top:.5rem
+  }
+  .general-info .abilities-public .course-badge-public
+  {
+    width:80px
+  }
+  .abilities-public:hover {
+    cursor:pointer;background-color:#e3e3e3
+  }
