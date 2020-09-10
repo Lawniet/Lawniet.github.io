@@ -38,10 +38,9 @@
     color: #1abc9c !important;
   }
   iframe {
-    position: absolute;            
-    top: -95px;
-    left: -25px;
-    width: 1024px;
-    height: 768px;
+    position: fixed;            
+    top: 900px;
+    left: 10px;
+    width: 768px;
+    height: 1024px;
   }
-.course-badge-public{width:80px}
